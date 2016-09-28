@@ -3,6 +3,8 @@ switch-fail-job
 
 Fails a job for a reason specified, sending it to problem jobs. Optionally write the fail reason or another value to private data at the same time.
 
+<img src="https://i.imgur.com/KCZjflA.png" width="500">
+
 
 ## Flow element properties
 
